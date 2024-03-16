@@ -1,0 +1,7 @@
+if user == humorous:
+  import humor 
+if humor == "false":
+  exit()
+else:
+  continue()
+print("")
